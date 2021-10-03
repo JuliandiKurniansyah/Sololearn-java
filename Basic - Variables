@@ -1,0 +1,7 @@
+class Apples {
+  public static void main(String[ ]args) {
+ name = "John";
+ age = 24;
+ height = 189.87;
+  }
+}
