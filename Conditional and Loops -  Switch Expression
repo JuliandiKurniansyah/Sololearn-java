@@ -1,0 +1,11 @@
+class SwitchExpression {
+	public static void main(String[] args) {
+		int price  = switch (coffee) {
+
+			case "Espresso", "Americano" -> 15;
+			case "Latte", "Macchiato" -> 20;
+			default -> 0;
+
+		};
+	}
+}
